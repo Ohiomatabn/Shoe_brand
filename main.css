@@ -250,6 +250,10 @@ footer .copyright{
             margin: 0 -5em 0 0;
         }
 
+        .info p a{
+            padding: 0px 10;
+        }
+
         .product{
             text-align: left;
             margin-bottom: 9em;
